@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="24bdfe92-273a-49f2-acc6-9e18fd04a041">
+  <producedTypes>
+    <objectType typeId="ad5deeea-f378-4802-bf41-438941f76ba2" valueTypeId="d7d31ac3-7106-4020-a2a4-8f351c103f47"/>
+    <managerType typeId="b160e43f-ea59-467f-be95-241f4b16e933" valueTypeId="b3060166-91a1-489c-8a15-23db82529384"/>
+  </producedTypes>
+  <name>А_АнализаторКода</name>
+  <synonym>
+    <key>ru</key>
+    <value>Анализатор кода</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+</mdclass:DataProcessor>

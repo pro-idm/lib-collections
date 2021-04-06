@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="e77f8115-98ab-456a-9138-be80451aa8b0">
+  <producedTypes>
+    <objectType typeId="cacde103-a1ef-4e33-8ca1-8cc96f686715" valueTypeId="bc48376d-29c1-4d23-adc3-354b538d9eb2"/>
+    <managerType typeId="4405e511-ff2d-4b93-8f52-4ea12eccdfac" valueTypeId="cc7f46d9-0519-47d7-bbd8-5dbecb64c327"/>
+  </producedTypes>
+  <name>А_ТестированиеПроизводительности</name>
+  <synonym>
+    <key>ru</key>
+    <value>А тестирование производительности</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.А_ТестированиеПроизводительности.Form.Форма</defaultForm>
+  <attributes uuid="3a554523-b8ee-4efe-a1b0-adf13b602a69">
+    <name>КоличествоВКоллекции</name>
+    <synonym>
+      <key>ru</key>
+      <value>Количество в коллекции</value>
+    </synonym>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>12</precision>
+        <nonNegative>true</nonNegative>
+      </numberQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
+  <attributes uuid="f73c5f03-ba34-4687-aeee-74888d242798">
+    <name>КоличествоПрогонов</name>
+    <synonym>
+      <key>ru</key>
+      <value>Количество прогонов</value>
+    </synonym>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>7</precision>
+        <nonNegative>true</nonNegative>
+      </numberQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
+  <attributes uuid="9e782d25-849b-4f6b-bdc3-0ac872ddb8b0">
+    <name>ТипКоллекции</name>
+    <synonym>
+      <key>ru</key>
+      <value>Тип коллекции</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>15</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
+  <forms uuid="c9a8b748-fd70-4761-a623-8ffd4fdbd9f9">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:DataProcessor>
