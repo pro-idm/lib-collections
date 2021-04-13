@@ -45,6 +45,5 @@
   <commonModules>CommonModule.А_КоллекцииСервер</commonModules>
   <commonModules>CommonModule.А_ВыполнениеКода</commonModules>
   <commonModules>CommonModule.А_АнализКода</commonModules>
-  <dataProcessors>DataProcessor.А_АнализаторКода</dataProcessors>
   <dataProcessors>DataProcessor.А_ТестированиеПроизводительности</dataProcessors>
 </mdclass:Configuration>

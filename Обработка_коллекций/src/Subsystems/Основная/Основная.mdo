@@ -10,6 +10,5 @@
   <content>CommonModule.А_ВыполнениеКода</content>
   <content>CommonModule.А_КоллекцииСервер</content>
   <content>CommonModule.А_АнализКода</content>
-  <content>DataProcessor.А_АнализаторКода</content>
   <content>DataProcessor.А_ТестированиеПроизводительности</content>
 </mdclass:Subsystem>
