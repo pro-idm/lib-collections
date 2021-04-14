@@ -43,7 +43,6 @@
   <subsystems>Subsystem.Основная</subsystems>
   <roles>Role.Администратор</roles>
   <commonModules>CommonModule.А_Коллекции</commonModules>
-  <commonModules>CommonModule.А_ВыполнениеКода</commonModules>
   <commonModules>CommonModule.А_АнализКода</commonModules>
   <dataProcessors>DataProcessor.А_ТестированиеПроизводительности</dataProcessors>
 </mdclass:Configuration>
