@@ -8,7 +8,7 @@
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
   <content>CommonModule.А_ВыполнениеКода</content>
-  <content>CommonModule.А_КоллекцииСервер</content>
+  <content>CommonModule.А_Коллекции</content>
   <content>CommonModule.А_АнализКода</content>
   <content>DataProcessor.А_ТестированиеПроизводительности</content>
 </mdclass:Subsystem>
